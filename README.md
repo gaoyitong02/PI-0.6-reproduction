@@ -8,8 +8,7 @@
 
 ## English
 
-**Note:** **中文声明
-本项目仅对论文 Physical Intelligence Pi 0.6 公开开源部分进行算法复现与实现，严格遵循原项目开源协议与学术规范；实验室私有敏感数据未做任何上传与开源，不存在私自开源涉密 / 私有资源的行为，完全符合原论文及开源社区的合规要求。
+**Note:**
 English Statement
 This project only reproduces and implements the publicly open-source part of the paper Physical Intelligence Pi 0.6, strictly complying with the open-source license and academic specifications of the original work. All sensitive private data belonging to the laboratory is not uploaded or open-sourced in any form. This repository fully conforms to the open-source requirements of the original paper without unauthorized disclosure of private resources.**
 **Pi 0.6** (the original) is **closed source**. This repository is **our own reproduction** of the value-function part: the model (SigLIP + Gemma + Projector + Value head, etc.) is our implementation. **This repo can be published on GitHub for others to see** — we share our code, docs, and results for reference; we do not distribute the original Pi 0.6.
